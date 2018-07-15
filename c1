@@ -1,0 +1,11 @@
+  .container {
+    font-size: 40px;
+    width: 100%;
+    background: LightGray;
+    /* add your code below this line */
+    display: grid;
+    
+    /* add your code above this line */
+  }
+  
+  //In order to begin using CSS Grid properties, you must first set display to "grid" on the parent container//
