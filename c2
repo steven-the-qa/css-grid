@@ -1,0 +1,13 @@
+  .container {
+    font-size: 40px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    /* add your code below this line */
+    grid-template-columns: 100px 100px 100px;
+    /* add your code above this line */
+  }
+  
+  //You need to set the structure of the grid before you can begin making finer adjustments//
+  //Set the number of columns and their widths with "grid-template-columns"//
+  //This grid has 3 columns each 100px in width//
