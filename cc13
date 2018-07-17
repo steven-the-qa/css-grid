@@ -1,0 +1,16 @@
+  .container {
+    font-size: 40px;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    /* add your code below this line */
+    align-items: end;
+    
+    /* add your code above this line*/
+  }
+  
+  //align-items is justify-items but for vertical alignment//
