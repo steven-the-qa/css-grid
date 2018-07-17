@@ -1,0 +1,11 @@
+  .item2 {
+    background: LightSalmon;
+    /* add your code below this line */
+    justify-self: center;
+    
+    /* add your code above this line */
+  
+  
+  //justify-self aligns an item's content in its container//
+  //default value is stretch, which has content fill the width of its cell//
+  //other values are start, center, and end//
