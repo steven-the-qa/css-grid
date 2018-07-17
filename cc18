@@ -1,0 +1,5 @@
+    grid-template-columns: repeat(3, minmax(90px, 1fr));
+    
+    //minmax lets you create a column or row with a specified range//
+    //This gives the item a range within to change size if the container changes size//
+    //This function repeats 3 columns with a width between 90px and 1fr based on how large the container is//
