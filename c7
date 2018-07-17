@@ -1,0 +1,13 @@
+  .container {
+    font-size: 40px;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    /* add your code below this line */
+    grid-gap: 10px 20px;
+    
+    //grid-gap is shorthand for grid-row-gap and grid-column-gap, respectively//
+    //if there is only 1 value, it will be applied to both rows and columns//
