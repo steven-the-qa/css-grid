@@ -1,0 +1,10 @@
+  .item5 {
+    background: PaleGreen;
+    /* add your code below this line */
+    grid-column: 2 / 4;
+    
+    /* add your code above this line */
+  }
+  
+  //The grid can be seen as a lattice-lined coordinate grid, where each point on the x- or y-axis is a numbered line//
+  //Making an item consume the space between lines 2 and 4 on the x-axis is the same as using the columns between 2/3 and 3/4//
