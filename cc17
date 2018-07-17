@@ -1,0 +1,17 @@
+  .container {
+    font-size: 40px;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    /* change the code below this line */
+    
+    grid-template-columns: repeat(3, 1fr);
+    
+    /* change the code above this line */
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+  }
+  
+  //The repeat() function is what lets you repeat column or row measurements n number of times when n is the first argument//
+  //This function makes 3 columns of 1fr length//
