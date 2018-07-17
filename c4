@@ -1,0 +1,12 @@
+grid-template-columns: auto 50px 10% 2fr 1fr
+
+//auto makes the column the size of its content//
+//px is an absolute measure//
+//% makes the column a percentage of its container size//
+//fr divides the available remaining space into sections and cuts it like slices of a pie, so 4th column gets 2 slices and 5th gets 1//
+
+grid-template-columns: 1fr 100px 2fr;
+
+//1 slice of the 3 fr slices goes to the 1st column//
+//2nd column gets 100 pixels//
+//3rd column gets the other 2 fr slices//
