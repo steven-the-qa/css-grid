@@ -1,0 +1,3 @@
+  grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+  
+  //auto-fill inserts as many rows or columns as possible depending on the size of the container//
