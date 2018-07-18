@@ -1,0 +1,8 @@
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    
+    
+    //auto-fit works a lot like auto-fill with one minor difference//
+    /*The only difference is that when the container's size exceeds the size of all the items combined, 
+    auto-fill keeps inserting empty rows or columns and pushes your items to the side, 
+    while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container." 
+    --Credit: freeCodeCamp*/
