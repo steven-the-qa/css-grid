@@ -1,0 +1,13 @@
+  @media (min-width: 400px){
+    .container{
+      /* change the code below this line */
+      grid-template-areas: 
+        "header header"
+        "advert content"
+        "footer footer";
+    /* change the code above this line */
+    }
+  }
+  
+  /*You need to fill in each cell of the grid, so if you want header and footer to cover the entire top and bottom of the grid,
+  you need to repeat the header and footer grid-area names for each cell of the grid*/
