@@ -1,0 +1,11 @@
+ .item3 {
+    background: PaleTurquoise;
+    grid-area: content;
+    /* enter your code below this line */
+    grid-template-columns: auto 1fr;
+    display: grid;
+    /* enter your code above this line */
+  }
+  
+  
+  //Create a grid within a grid by changing the display value of one of your items to "grid" and giving "grid-template-columns" a value too//
